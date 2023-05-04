@@ -10,10 +10,12 @@ h2{
     color: rgb(255, 172, 121);
 }
 
-ul{
+ul ,ol{
+    font-size: 19px;
+}
+p {
     font-size: 20px;
 }
-
 img{
     width: 500px;
     height: auto;
